@@ -1,1 +1,1 @@
-# Reporte_Errores_Educacion
+# Errores_Educacion_reporte
